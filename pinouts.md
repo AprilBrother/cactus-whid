@@ -16,3 +16,7 @@ The pin closer to USB-A is GND. The pins are
 * UVCC 
 
 ![P1](assets/usb-p2.png) 
+
+### LED
+
+The LED wire to D11. It can be controled by ATMega32U4. 
